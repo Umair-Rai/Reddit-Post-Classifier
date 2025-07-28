@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Reddit Post Classifier</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; }
+        input[type="text"] { width: 400px; padding: 10px; margin: 10px; }
+        input[type="submit"] { padding: 10px 20px; }
+    </style>
+</head>
+<body>
+    <h1>Reddit Post Category Classifier</h1>
+    <form method="post" action="/predict">
+        <input type="text" name="post" placeholder="Enter your Reddit post text here" required>
+        <br>
+        <input type="submit" value="Classify">
+    </form>
+</body>
+</html>
+

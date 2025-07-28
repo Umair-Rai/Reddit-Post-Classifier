@@ -1,0 +1,9 @@
+Flask
+ngrok
+pandas
+scikit-learn
+joblib
+numpy
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+request
