@@ -12,11 +12,11 @@ A machine learning project that classifies Reddit post titles into broad categor
 
 **Input Sample:**
 
-<img src="assets/1.jgp" alt="User Input Example" width="500"/>
+<img src="assets/1.jpg" alt="User Input Example" width="500"/>
 
 **Output Sample:**
 
-<img src="assets/2.jgp" alt="Model Output Example" width="500"/>
+<img src="assets/2.jpg" alt="Model Output Example" width="500"/>
 
 ---
 
