@@ -20,25 +20,7 @@ A machine learning project that classifies Reddit post titles into broad categor
 
 ---
 
-## 🗂️ Project Structure
-
-Reddit-Post-Classifier/
-│
-├── assets/
-│ ├── 1.png ← Input screenshot
-│ └── 2.png ← Output screenshot
-│
-├── templates/
-│ ├── index.html ← HTML form for text input
-│ └── result.html ← HTML result display
-│
-├── NLP_Task_Project.ipynb ← Main Jupyter Notebook (training & testing)
-├── label_encoder.pkl ← Trained LabelEncoder
-├── reddit_category_model.pkl ← Trained Naive Bayes model
-├── tfidf_vectorizer.pkl ← TF-IDF vectorizer
-├── requirements.txt ← Python dependencies
-├── web_interface.py ← Flask web application
-└── README.md ← You are here
+<pre lang="markdown"> ## 🗂️ Project Structure ``` Reddit-Post-Classifier/ │ ├── assets/ │ ├── 1.png ← Input screenshot │ └── 2.png ← Output screenshot │ ├── templates/ │ ├── index.html ← HTML form for text input │ └── result.html ← HTML result display │ ├── NLP_Task_Project.ipynb ← Main Jupyter Notebook (training & testing) ├── label_encoder.pkl ← Trained LabelEncoder ├── reddit_category_model.pkl ← Trained Naive Bayes model ├── tfidf_vectorizer.pkl ← TF-IDF vectorizer ├── requirements.txt ← Python dependencies ├── web_interface.py ← Flask web application └── README.md ← You are here ``` </pre>
 
 
 ---
